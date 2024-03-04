@@ -1,10 +1,10 @@
 #!/bin/bash
 
-###################
+######################
 #Author: Sachin
 #Date: 01/03/2024
 #Topic: Script to report the Usages of AWS Cloud Products(EC2,S3,Lambda,IAM) in Your Project
-###################
+######################
 
 set -x
 
